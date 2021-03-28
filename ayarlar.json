@@ -1,0 +1,31 @@
+{
+"prefix": ".", "color": "RED", "tik": "", "onayemoji": "", "onaysızemoji": "", "sunucuismi": "", "sahip": "",
+"token": "", "sunucuid": "", "invitelink": "",
+"tag": "",
+
+"yetki": {
+"developerperm": "",
+"botkomut": ""
+},
+"cezalar": {
+"yasaklıtagrolü": "",
+"yenihesaprolü": ""
+},
+"kanal": {
+"chat": "",
+"kurallar": "",
+"hosgeldinkanal": "",
+"süpheli": ""
+},
+
+"genel": {
+"erkekrolü1": "", 
+"erkekrolü2": "", 
+"kızrolü1": "", "kızrolü2": "", "boosterRolü": "", 
+"kayıtsızrolü": "", "kayıtsızrolü2": "", "tagrol": "",
+
+"vipRol": "",
+"muzisyenRol": "",
+"vokalRol": ""
+
+}}
