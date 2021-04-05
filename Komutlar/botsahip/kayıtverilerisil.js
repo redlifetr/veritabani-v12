@@ -9,7 +9,7 @@ if(message.author.id !== ayar.sahip) return message.channel.send("Yetkin yetmiyo
     let red = args[0];
 if(!args[0]) return message.channel.send(new MessageEmbed()
         .setDescription(`
-**.verisil toplu => Bütün verileri siler
+**.verisil tüm => Bütün verileri siler
 
 .verisil kayıt => Etiketlediğin kişinin kayıt bilgisini sıfırlar
 
@@ -56,12 +56,12 @@ await db.delete(`isimlererkek.${redlife.id}`)
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: ["redsil"],
+  aliases: ["verisil"],
   permLevel: 0
 };
 
 exports.help = {
-  name: "redsil",
-  description: "redsil",
-  usage: "redsil"
+  name: "verisil",
+  description: "Verileri silersiniz!",
+  usage: "verisil"
 };
